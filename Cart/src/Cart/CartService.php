@@ -1,7 +1,8 @@
 <?php
 
-require_once('./Product.php');
-require_once('./Cart.php');
+namespace Cart;
+
+use Cart\Cart;
 
 class CartService
 {

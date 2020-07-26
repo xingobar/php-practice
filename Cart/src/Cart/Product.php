@@ -1,5 +1,7 @@
 <?php
 
+namespace Cart;
+
 class Product
 {
     // 產品名稱
