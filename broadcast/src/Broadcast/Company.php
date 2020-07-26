@@ -1,6 +1,6 @@
 <?php
 
-namespace practice\broadcast\Platform;
+namespace Broadcast;
 
 use SplObserver;
 

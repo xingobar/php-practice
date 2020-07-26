@@ -1,9 +1,9 @@
 <?php
 
-namespace practice\broadcast\Platform;
+require './vendor/autoload.php';
 
-include('./Company.php');
-include('./Platform.php');
+use Broadcast\Company;
+use Broadcast\Platform;
 
 $company = new Company();
 
